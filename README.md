@@ -9,4 +9,4 @@ I am interested in quantitative finance, statistical modelling and machine learn
 - Statistics and data science
 - Probability and mathematical modelling
 
-Learn more about my university: [Imperiall College London](https://www.imperial.ac.uk/).
+Learn more about my university: [Imperial College London](https://www.imperial.ac.uk/).
