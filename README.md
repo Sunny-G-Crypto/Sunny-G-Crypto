@@ -1,4 +1,4 @@
-# Hii, I'm Rongji Yang 👋
+# Hi, I'm Rongji Yang 👋
 
 I am studying MSc Statistics (Statistical Finance) at Imperial College London. I previously completed a BSc in Mathematics and Actuarial Science at the University of Southampton.
 
